@@ -1,3 +1,6 @@
 Learning git.
 This is the repo which is created locally and added to remote. 
 Syntax is git add remote origin "URL".
+
+Here we can commit and push the changes by using different user details.
+Let's check that. 
