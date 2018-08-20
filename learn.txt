@@ -8,3 +8,6 @@ Let's check that.
 A branch is created. 
 
 I need to merge this data to the master. 
+
+Let's merge branch file to this master file and delete all the conflicts manually. 
+
