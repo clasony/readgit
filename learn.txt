@@ -6,3 +6,5 @@ Here we can commit and push the changes by using different user details.
 Let's check that. 
 
 A branch is created. 
+
+I need to merge this data to the master. 
